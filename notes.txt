@@ -1,0 +1,27 @@
+Super User
+Username: admin
+Password: lemon@123!
+
+Customer 1
+Username: customer
+Password: lemon@cm!
+
+Customer 2
+Username: sazol
+Password: lemon@cm!
+
+Manager 1
+Username: manager1
+Password: lemon@mm!
+
+Manager 2
+Username: manager2
+Password: lemon@mm!
+
+Delivery Crew 1
+Username: delivery1
+Password: lemon@dm!
+
+Delivery Crew 1
+Username: delivery2
+Password: lemon@dm!
